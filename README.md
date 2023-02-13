@@ -22,6 +22,7 @@ In this nootbook we are going to implement the method proposed in the paper [Int
 <ul>
 <li>We have already pre-trained our model for 350 epoch at bacth size of 512 , saved model can be found at our github repository. <a href = "https://github.com/shahkarKhan24/CvT_NN_Project">[Here]</a>
 </li>
+<li>Bets to download "CVT_Final.ipynb" file on your device rather than colab.</li>
 <li>If you wish to run the code and pretrained all over again just run the blocks sequentially.</li>
 <li>For pre-training cifar100 dataset must be downloaded.<li>
 <li>For fine tuning we have considered catVsdog data set which can be downloaded from <a href = "https://www.microsoft.com/en-us/download/details.aspx?id=54765">[download dataset]</a> [3], and Food dataset with 11 classes which can be downloaded from <a href = "https://www.kaggle.com/datasets/trolukovich/food11-image-dataset?select=training">[download dataset]</a> [5].</li>
