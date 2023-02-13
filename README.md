@@ -15,7 +15,7 @@ In this nootbook we are going to implement the method proposed in the paper [Int
 
 
 <h2> INTRODUCTION </h2>
-<p> In this report we try to re-implement the model proposed in CvT: Introducing Convolutions to Vision Transformers –(Haiping Wu. 2021) [1] for our Neural Network project.After reading the paper we decided to re-implement the CvT-13 version of convolutional vision transformer on a low scale. Original CvT model was pretrained on imagenet dataset for 300 epoch and then further finetuned on relatively small dataset like Cifar10, but due to our machine limitaion we will try on low resolutiona and small datsets. </p>
+<p> In this report we try to re-implement the model proposed in CvT: Introducing Convolutions to Vision Transformers –(Haiping Wu. 2021) [1] for our Neural Network project.After reading the paper we decided to re-implement the CvT-13 version of convolutional vision transformer on a low scale. Original CvT model was pretrained on imagenet dataset for 300 epoch and then further finetuned on relatively small dataset like Cifar10, but due to our machine limitaion we will try on low resolution images and small datsets. </p>
 
 <h2> General Instruction </h2>
 
