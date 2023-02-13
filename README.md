@@ -20,7 +20,7 @@ In this nootbook we are going to implement the method proposed in the paper [Int
 <h2> General Instruction </h2>
 
 <ul>
-<li>We have already pre-trained our model for 350 epoch at bacth size of 512 , saved model can be found in "results" folder of our github repository. <a href = "https://github.com/shahkarKhan24/CvT_NN_Project">[Here]</a>
+<li>We have already pre-trained our model for 350 epoch at bacth size of 512 , saved model can be found in "results" folder of our github repository. <a href = "https://github.com/shahkarKhan24/CvT_NN_Project/tree/main/results/results">[Here]</a>
 </li>
 <li>Best to download "CVT_Final.ipynb" file on your device rather than colab.</li>
 <li>If you wish to run the code and pretrained all over again just run the blocks sequentially.</li>
